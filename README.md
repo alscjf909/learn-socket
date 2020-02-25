@@ -34,7 +34,7 @@ accept()는 소켓에 누군가가 접속하여 연결되었을 때에 비로소
 즉 소스코드 내에 serverSock.accept()가 있더라도, 누군가가 접속할 때까지 프로그램은 바로 이 부분에서 계속 멈춰있게 된다.   
 connectionSock이라는 소켓은 accept()를 통해 상대방과 데이터를 주고받기 위해서이다.
 ## 2. TCP/IP 채팅
-## 2.1 python 이용한 통신   
+ 2.1 python 이용한 통신   
 [가장 간단한 챗봇](https://seolin.tistory.com/97)   
-## 2.2 python 이용한 무전기식 통신   
+ 2.2 python 이용한 무전기식 통신   
 [무전기](https://seolin.tistory.com/98?category=762768)
